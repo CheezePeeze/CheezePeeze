@@ -1,10 +1,31 @@
-# Hi, my name is Vlad!
+# Hi, I'm Vlad 👋  
+🚀 Full-Stack Developer | MERN & Beyond | Building Scalable Web Apps  
+
 
 ---
 
 ### About Me:
+I'm a Full-Stack Developer passionate about building scalable, user-focused web applications.  
+With experience in **MERN (MongoDB, Express, React, Node.js)**, REST & GraphQL APIs, and cloud deployment,  
+I focus on writing clean, maintainable code and designing interfaces that balance functionality with visual excellence.  
 
-I'm a Web Developer with a passion for tackling challenging projects and collaborating on innovative solutions. My focus is on creating web projects that not only function seamlessly but also boast visual excellence. Committed to constant self-improvement, I stay updated on the latest technology trends and best practices in web development. Outside of coding, you'll find me exploring my interests in traveling, PC tech news, and playing some MMO. My dedication to excellence drives my contributions to the web space.
+🔹 I thrive in solving complex challenges, optimizing performance, and shipping features that make an impact.  
+🔹 My journey blends **hands-on coding** with an **entrepreneurial mindset** — from SaaS projects to  
+   crowdfunding app prototypes and affiliate-marketing platforms.  
+🔹 Always learning, always improving — I believe in growing a little sharper every single day.  
+
+Outside of coding, you’ll find me deep into **PC building & hardware optimization**,  
+exploring **fintech & digital business models**, or gaming in **MMOs & strategy worlds**.  
+
+
+### Tech Stack:
+- **Frontend:** React, Next.js, Redux, TypeScript, Tailwind, Material-UI  
+- **Backend:** Node.js, Express.js, GraphQL, REST APIs  
+- **Database:** MongoDB, PostgreSQL, MySQL  
+- **DevOps & Tools:** Docker, GitHub Actions, Vercel, GCP, Postman  
+- **Other Skills:** SaaS architecture, affiliate platforms, finance-driven web apps  
+
+- [TaskFlow](#) — MERN productivity app with JWT auth & cloud DB.  
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
