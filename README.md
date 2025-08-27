@@ -25,7 +25,7 @@ exploring **fintech & digital business models**, or gaming in **MMOs & strategy 
 - **DevOps & Tools:** Docker, GitHub Actions, Vercel, GCP, Postman  
 - **Other Skills:** SaaS architecture, affiliate platforms, finance-driven web apps  
 
-- [TaskFlow](#) — MERN productivity app with JWT auth & cloud DB.  
+- [TaskFlow](https://github.com/CheezePeeze/taskflow) — MERN productivity app with JWT auth & cloud DB.  
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
