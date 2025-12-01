@@ -9,10 +9,10 @@ I'm a Software Developer focused on building reliable, scalable applications usi
 I take ownership of features end-to-end — from architecture and data-flow design to stable production delivery.
 
 My recent work includes:
-- • building distributed scraping systems with Puppeteer and AWS;
-- • implementing strongly typed GraphQL interfaces with AWS Amplify;
-- • designing a rules-heavy scheduling engine with complex constraints (weekly rhythm, buffers, consecutive-day limits, 1:1 logic);
-- • improving legacy modules, solving deep edge cases and stabilizing mission-critical workflows.
+-  building distributed scraping systems with Puppeteer and AWS;
+-  implementing strongly typed GraphQL interfaces with AWS Amplify;
+-  designing a rules-heavy scheduling engine with complex constraints (weekly rhythm, buffers, consecutive-day limits, 1:1 logic);
+-  improving legacy modules, solving deep edge cases and stabilizing mission-critical workflows.
 
 I enjoy making systems predictable, maintainable and resilient — especially where data, constraints and business rules intersect.
 
