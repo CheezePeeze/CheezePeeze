@@ -5,25 +5,25 @@
 ---
 
 ### About Me:
-I'm a Full-Stack Developer passionate about building scalable, user-focused web applications.  
-With experience in **MERN (MongoDB, Express, React, Node.js)**, REST & GraphQL APIs, and cloud deployment,  
-I focus on writing clean, maintainable code and designing interfaces that balance functionality with visual excellence.  
+I'm a Software Developer focused on building reliable, scalable applications using React, TypeScript, Next.js and AWS serverless technologies.
+I take ownership of features end-to-end — from architecture and data-flow design to stable production delivery.
 
-🔹 I thrive in solving complex challenges, optimizing performance, and shipping features that make an impact.  
-🔹 My journey blends **hands-on coding** with an **entrepreneurial mindset** — from SaaS projects to  
-   crowdfunding app prototypes and affiliate-marketing platforms.  
-🔹 Always learning, always improving — I believe in growing a little sharper every single day.  
+My recent work includes:
+• building distributed scraping systems with Puppeteer and AWS;
+• implementing strongly typed GraphQL interfaces with AWS Amplify;
+• designing a rules-heavy scheduling engine with complex constraints (weekly rhythm, buffers, consecutive-day limits, 1:1 logic);
+• improving legacy modules, solving deep edge cases and stabilizing mission-critical workflows.
 
-Outside of coding, you’ll find me deep into **PC building & hardware optimization**,  
-exploring **fintech & digital business models**, or gaming in **MMOs & strategy worlds**.  
+I enjoy making systems predictable, maintainable and resilient — especially where data, constraints and business rules intersect.
+
+Outside of work, I dive into **PC hardware tuning**, **fintech models**,  **digital business logic** and the occasional  **MMO** session.
 
 
 ### Tech Stack:
-- **Frontend:** React, Next.js, Redux, TypeScript, Tailwind, Material-UI  
-- **Backend:** Node.js, Express.js, GraphQL, REST APIs  
-- **Database:** MongoDB, PostgreSQL, MySQL  
-- **DevOps & Tools:** Docker, GitHub Actions, Vercel, GCP, Postman  
-- **Other Skills:** SaaS architecture, affiliate platforms, finance-driven web apps  
+- **Frontend:** React, Next.js, Redux, TypeScript, Tailwind CSS, MUI, Zustand/Redux  
+- **Backend & Cloud:** Node.js, AWS Lambda, S3, Cognito, AppSync (GraphQL),Puppeteer,Express, REST APIs
+- **Database:** DynamoDB • MongoDB • PostgreSQL • MySQL
+- **DevOps & Tools:** Docker • GitHub Actions • CI/CD • AWS Amplify • Vercel • Postman
 
 - [TaskFlow](https://github.com/CheezePeeze/taskflow) — MERN productivity app with JWT auth & cloud DB.  
 
