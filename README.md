@@ -25,6 +25,17 @@ Outside of work, I dive into **PC hardware tuning**, **fintech models**,  **digi
 - **Database:** DynamoDB • MongoDB • PostgreSQL • MySQL
 - **DevOps & Tools:** Docker • GitHub Actions • CI/CD • AWS Amplify • Vercel • Postman
 
+
+Featured Projects
+**GMaps Scraper Platform**
+
+-Distributed job orchestration with AWS (Amplify, AppSync, Lambda, DynamoDB).
+Improvements include selector resilience, reliable browser-pool handling, two-level caching, real-time updates and global deduplication.
+
+**Appointment-First Coaching Scheduler**
+
+-Scheduling engine with complex rules: weekly rhythm, consecutive-day limits, 1:1 coach–coachee, UE-based durations, buffers and fallback logic.
+Refactored legacy logic, eliminated overlapping cases, stabilized the algorithm and built strong validation layers.
 - [TaskFlow](https://github.com/CheezePeeze/taskflow) — MERN productivity app with JWT auth & cloud DB.  
 
 <p align="center">
