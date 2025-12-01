@@ -27,6 +27,7 @@ Outside of work, I dive into **PC hardware tuning**, **fintech models**,  **digi
 
 
 Featured Projects
+
 **GMaps Scraper Platform**
 
 -Distributed job orchestration with AWS (Amplify, AppSync, Lambda, DynamoDB).
