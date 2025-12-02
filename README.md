@@ -34,6 +34,8 @@ Improvements include selector resilience, reliable browser-pool handling, two-le
 
 -Scheduling engine with complex rules: weekly rhythm, consecutive-day limits, 1:1 coach–coachee, UE-based durations, buffers and fallback logic.
 Refactored legacy logic, eliminated overlapping cases, stabilized the algorithm and built strong validation layers.
+
+
 - [TaskFlow](https://github.com/CheezePeeze/taskflow) — MERN productivity app with JWT auth & cloud DB.  
 
 <p align="center">
