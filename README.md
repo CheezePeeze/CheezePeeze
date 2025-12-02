@@ -1,7 +1,4 @@
 # Hi, I'm Vlad 👋  
-🚀 Full-Stack Developer | MERN & Beyond | Building Scalable Web Apps  
-
-
 ---
 
 ### About Me:
