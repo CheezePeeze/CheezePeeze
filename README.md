@@ -25,7 +25,7 @@ Outside of work, I dive into **PC hardware tuning**, **fintech models**,  **digi
 
 Featured Projects
 
-**GMaps Scraper Platform**
+**Scraper Platform**
 
 -Distributed job orchestration with AWS (Amplify, AppSync, Lambda, DynamoDB).
 Improvements include selector resilience, reliable browser-pool handling, two-level caching, real-time updates and global deduplication.
